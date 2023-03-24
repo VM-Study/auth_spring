@@ -1,6 +1,7 @@
 package com.example.securitylection.service;
 
 import com.example.securitylection.model.User;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
